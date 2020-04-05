@@ -1,5 +1,5 @@
 class Song
   
-  attr_accessor :title, :assert_instance_of
+  attr_accessor :title, :artist
   
 end
