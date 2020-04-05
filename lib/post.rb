@@ -3,5 +3,6 @@ class Post
 
     def initialize(title)
         @title = title
+        post = self.new
     end
 end
